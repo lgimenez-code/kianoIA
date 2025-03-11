@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+body {
+  label, span {
+    font-family: Calibri;
+    @apply text-gray-400;
+  }
+}
+
+.container-border {
+  @apply border-2 border-gray-600 rounded-lg;
+}
+
+
