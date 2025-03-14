@@ -14,8 +14,10 @@ Before you begin, make sure you have the following programs installed:
 ## Installation
 
 To install the project dependencies, run the following command in your terminal:
+```sh
+npm install
+```
 
-## How to use
 To start the application in development mode, run the following command:
 ```sh
 npm run dev
